@@ -27,6 +27,6 @@ public class DemoServlet extends HttpServlet {
       throws IOException {
     resp.setContentType("text/plain");
 
-    resp.getWriter().println("{ \"name\": \"World Ettienne   22\" }");
+    resp.getWriter().println("{ \"name\": \"World Ettienne   100\" }");
   }
 }
